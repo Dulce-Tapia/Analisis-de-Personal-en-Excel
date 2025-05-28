@@ -1,0 +1,201 @@
+ID,Nombre,Departamento,Género,Edad,Fecha de Ingreso,Fecha de Egreso,Estado,Días Ausentes,Calificación Desempeño,Promocionado
+1,Kirsten Garcia,Operaciones,Masculino,43,2025-03-04,,Activo,3,4.9,Sí
+2,Charles Hale,Ventas,Femenino,39,2024-02-21,,Activo,6,1.9,No
+3,Danielle Hood,Operaciones,Femenino,58,2022-11-12,,Activo,11,3.7,No
+4,Charles Long,Operaciones,Masculino,33,2023-04-25,,Activo,15,4.4,Sí
+5,Richard Montes,IT,Femenino,29,2015-07-09,,Activo,8,4.6,Sí
+6,Donald Fitzgerald,Finanzas,Femenino,36,2017-12-30,,Activo,12,3.4,Sí
+7,Sarah Thompson,Operaciones,Femenino,48,2017-12-23,,Activo,7,3.4,No
+8,Julia Schroeder,Finanzas,Femenino,57,2018-07-07,,Activo,6,1.5,Sí
+9,Connor Wong,Ventas,Femenino,55,2021-01-19,,Activo,5,4.9,No
+10,Jonathan Molina,Recursos Humanos,Femenino,57,2019-09-07,,Activo,13,3.4,No
+11,Michael Reid,Ventas,Femenino,50,2023-04-27,,Activo,13,1.3,No
+12,Kevin Logan,Finanzas,Femenino,36,2021-07-04,,Activo,8,1.9,No
+13,Kimberly Henson,Marketing,Masculino,55,2025-01-18,,Activo,6,2.8,No
+14,Donald Morton,Finanzas,Masculino,38,2022-06-14,,Activo,13,2.6,No
+15,Joseph Martin,Ventas,Femenino,60,2015-09-01,,Activo,9,1.4,Sí
+16,Robert Perkins,IT,Femenino,38,2017-08-03,,Activo,12,3.2,No
+17,Nicholas Koch,Marketing,Femenino,43,2017-07-15,,Activo,7,1.9,Sí
+18,Christian Buck,IT,Femenino,52,2022-12-15,,Activo,15,2.2,No
+19,Robert Alvarez,Recursos Humanos,Femenino,56,2022-10-19,,Activo,15,2.9,No
+20,Elizabeth Dixon,Operaciones,Femenino,53,2015-09-12,2021-04-18,Inactivo,0,4.3,No
+21,Tony Garcia,Ventas,Masculino,48,2023-06-21,2024-01-09,Inactivo,8,3.0,No
+22,Todd Greer,Marketing,Masculino,26,2015-10-11,2024-05-09,Inactivo,0,4.1,Sí
+23,Roy Crawford,Recursos Humanos,Femenino,33,2018-05-02,2022-12-31,Inactivo,2,3.7,No
+24,Kristy Escobar,Ventas,Femenino,30,2025-03-09,,Activo,13,4.7,No
+25,Tracy Evans,Marketing,Femenino,24,2018-12-13,,Activo,13,3.6,Sí
+26,Nathan Whitney,Ventas,Femenino,38,2020-09-17,,Activo,10,4.8,No
+27,Vanessa Armstrong,Operaciones,Femenino,40,2023-05-10,,Activo,1,2.4,Sí
+28,Rachel Sims,Operaciones,Femenino,30,2022-05-31,,Activo,0,4.5,Sí
+29,Amber Lewis,Finanzas,Femenino,28,2018-04-13,,Activo,15,3.3,Sí
+30,Kathleen Barnes,Marketing,Masculino,56,2023-06-06,,Activo,13,1.2,Sí
+31,Rebecca Kennedy,IT,Masculino,59,2021-06-12,,Activo,5,2.6,Sí
+32,Gerald Lucas,Marketing,Femenino,56,2023-10-06,2025-01-06,Inactivo,3,2.1,No
+33,Wendy Jones,Recursos Humanos,Femenino,35,2020-12-15,,Activo,9,3.6,No
+34,Joel Miller,Marketing,Masculino,38,2024-02-20,,Activo,10,1.3,No
+35,Amy Olson,Ventas,Femenino,43,2024-01-28,,Activo,1,1.6,No
+36,Megan Christian,Ventas,Femenino,24,2018-10-19,,Activo,14,3.3,Sí
+37,Jeremy Burnett,Ventas,Femenino,40,2016-01-28,,Activo,1,4.0,Sí
+38,Miguel Tucker,Ventas,Femenino,55,2021-02-13,,Activo,11,3.6,Sí
+39,Dr. Angela Campbell,Recursos Humanos,Femenino,53,2020-07-07,2021-04-08,Inactivo,11,3.4,Sí
+40,Brittany Wilson,Finanzas,Masculino,58,2020-01-07,2024-12-25,Inactivo,3,1.3,No
+41,Ashley Bender,Operaciones,Masculino,52,2023-04-06,,Activo,11,5.0,Sí
+42,Kathryn Gray,Recursos Humanos,Masculino,34,2023-10-19,,Activo,3,2.4,Sí
+43,Paul Soto,IT,Femenino,39,2020-05-25,,Activo,5,2.7,Sí
+44,Jill Rodriguez,Ventas,Masculino,45,2020-11-13,,Activo,2,3.5,Sí
+45,Susan Smith,Recursos Humanos,Femenino,59,2019-02-14,,Activo,3,2.0,Sí
+46,Lindsay Riggs,Recursos Humanos,Masculino,38,2021-05-23,,Activo,1,4.5,Sí
+47,Veronica Cooper,Operaciones,Femenino,34,2023-07-14,,Activo,0,3.6,No
+48,Sharon Ball,Ventas,Masculino,29,2022-04-30,,Activo,9,4.1,No
+49,Austin Gutierrez,Finanzas,Femenino,50,2023-06-20,,Activo,7,1.6,Sí
+50,Christopher Cooper,IT,Masculino,59,2025-02-28,,Activo,8,2.1,Sí
+51,Rodney Alvarado,Finanzas,Femenino,53,2022-08-27,,Activo,6,3.9,Sí
+52,Laura Garcia,Operaciones,Masculino,43,2017-05-11,,Activo,8,3.8,No
+53,Emily Thompson,Ventas,Masculino,54,2019-10-24,,Activo,8,3.5,No
+54,Matthew Black,Marketing,Femenino,37,2023-08-02,,Activo,9,2.6,Sí
+55,Kathleen Cole,Ventas,Femenino,48,2018-11-09,,Activo,1,2.6,Sí
+56,Alexandria Owens,Finanzas,Femenino,42,2017-12-18,,Activo,0,2.8,Sí
+57,Lisa Bauer,IT,Masculino,46,2019-11-14,2022-04-12,Inactivo,7,3.9,Sí
+58,Jamie Sharp,Ventas,Masculino,40,2020-07-19,,Activo,4,3.9,Sí
+59,Jamie Smith,IT,Femenino,34,2019-08-17,,Activo,7,2.1,Sí
+60,Karen Jimenez,Operaciones,Femenino,49,2022-09-13,,Activo,9,1.7,No
+61,John Kim,IT,Masculino,37,2023-10-22,,Activo,7,2.6,No
+62,Justin Webb,IT,Femenino,34,2023-12-09,2024-08-24,Inactivo,4,1.5,No
+63,Anthony Nichols,Finanzas,Masculino,60,2018-01-23,,Activo,9,3.7,No
+64,Victoria Lopez,Recursos Humanos,Masculino,41,2024-04-09,2024-06-13,Inactivo,12,4.4,No
+65,Emily Hopkins,Operaciones,Femenino,58,2016-04-13,,Activo,6,4.4,No
+66,Krystal Mays,Marketing,Femenino,37,2020-06-10,,Activo,11,4.5,No
+67,Elizabeth Maxwell,Recursos Humanos,Masculino,46,2017-05-28,,Activo,12,1.6,No
+68,Keith Sanchez,Finanzas,Masculino,37,2019-08-05,,Activo,12,1.3,No
+69,John Sullivan,Finanzas,Masculino,46,2019-07-03,,Activo,6,1.9,Sí
+70,Victor Gregory,Operaciones,Femenino,54,2015-07-12,,Activo,13,3.7,Sí
+71,Charles James,Operaciones,Masculino,27,2018-02-06,,Activo,15,3.6,Sí
+72,Jasmin Williams,Ventas,Masculino,32,2018-06-21,2023-12-07,Inactivo,3,1.1,Sí
+73,Alyssa Hatfield,Marketing,Masculino,22,2016-10-08,,Activo,1,2.6,No
+74,Eugene Townsend,Finanzas,Masculino,23,2025-02-20,2025-03-21,Inactivo,13,3.8,No
+75,David Lee,Ventas,Masculino,52,2015-08-19,,Activo,8,3.7,Sí
+76,Samuel Roberts,Ventas,Femenino,50,2023-04-02,2024-07-28,Inactivo,10,1.7,Sí
+77,Madison Watson,Recursos Humanos,Masculino,40,2018-06-07,,Activo,2,3.4,No
+78,Meghan Moore,IT,Femenino,36,2017-07-02,,Activo,12,3.5,Sí
+79,Jennifer Lara,Finanzas,Masculino,50,2016-03-15,,Activo,7,1.2,Sí
+80,Grace Fisher,Operaciones,Femenino,35,2024-04-02,,Activo,15,3.6,No
+81,Shawn Allen,Operaciones,Femenino,54,2024-12-03,,Activo,5,3.8,Sí
+82,Frank Paul,Finanzas,Femenino,25,2016-05-22,2018-02-28,Inactivo,9,2.6,No
+83,Richard Leonard,Operaciones,Femenino,26,2020-06-19,,Activo,15,2.8,Sí
+84,Abigail Williams,Marketing,Masculino,46,2016-06-24,,Activo,11,1.1,No
+85,Thomas Ryan,Operaciones,Femenino,26,2025-03-25,2025-04-28,Inactivo,13,3.5,No
+86,Michael Strong,Marketing,Femenino,29,2021-05-14,,Activo,3,1.5,No
+87,Larry Foley,Ventas,Femenino,59,2016-09-27,,Activo,9,3.7,Sí
+88,John Patterson,Finanzas,Femenino,24,2023-10-28,,Activo,2,3.3,No
+89,Jasmine Zamora,IT,Femenino,49,2018-12-08,2022-02-04,Inactivo,3,1.8,No
+90,Karen Morris,Operaciones,Masculino,40,2024-10-29,,Activo,8,2.3,No
+91,Lawrence Mcdowell,Ventas,Femenino,23,2017-09-02,,Activo,9,1.5,No
+92,Jordan Washington,IT,Femenino,59,2017-11-30,2024-05-15,Inactivo,3,3.2,No
+93,Chelsea Lloyd,Ventas,Masculino,35,2023-11-27,,Activo,9,4.5,No
+94,Andrew Garcia,Marketing,Femenino,55,2023-04-17,,Activo,10,1.9,Sí
+95,Christopher Odom,Recursos Humanos,Masculino,47,2016-02-06,2025-05-10,Inactivo,8,4.8,No
+96,Jessica Guzman,Finanzas,Femenino,40,2019-02-28,,Activo,5,1.9,No
+97,Heather Mccullough,IT,Femenino,41,2015-09-10,,Activo,15,1.8,Sí
+98,Michael Gallegos II,IT,Masculino,22,2025-05-09,,Activo,10,1.9,No
+99,Arthur George,Finanzas,Femenino,29,2021-03-18,,Activo,1,3.6,No
+100,Logan Allen,Operaciones,Femenino,58,2020-11-14,,Activo,2,2.1,No
+101,Rachael Bailey,IT,Femenino,58,2023-07-18,2025-04-26,Inactivo,6,5.0,Sí
+102,Darin Thomas,Marketing,Femenino,38,2018-12-21,2023-10-12,Inactivo,10,2.4,Sí
+103,Jeff Shields,IT,Masculino,37,2023-07-09,,Activo,8,3.7,No
+104,Charles Bernard,Recursos Humanos,Femenino,37,2024-03-01,,Activo,9,1.5,Sí
+105,Jordan Maxwell,IT,Masculino,39,2016-08-05,,Activo,1,3.4,Sí
+106,Grace Garrison,Finanzas,Masculino,41,2020-09-17,,Activo,8,4.1,Sí
+107,Julia Rojas,Marketing,Femenino,27,2024-01-17,,Activo,5,3.8,Sí
+108,Bradley Bryant,Recursos Humanos,Masculino,57,2020-08-19,,Activo,7,2.3,Sí
+109,Christopher Perkins,Recursos Humanos,Femenino,51,2017-07-03,,Activo,11,3.9,Sí
+110,Jordan Hill,Marketing,Femenino,48,2023-05-10,,Activo,6,2.6,Sí
+111,George Dyer,Marketing,Femenino,43,2015-12-03,,Activo,1,3.8,No
+112,Mary White,IT,Femenino,57,2024-10-14,,Activo,2,2.5,No
+113,Amy Bennett,IT,Masculino,49,2022-01-19,2023-12-06,Inactivo,9,4.0,Sí
+114,Brandon Thompson,Operaciones,Femenino,28,2018-01-23,2018-07-31,Inactivo,4,1.9,Sí
+115,Jeffery Henderson,Ventas,Femenino,45,2020-04-26,,Activo,11,3.2,No
+116,Alexa George,Ventas,Femenino,35,2022-05-03,,Activo,5,2.8,No
+117,Leslie Lang,Finanzas,Femenino,40,2021-06-02,2025-02-10,Inactivo,1,2.2,No
+118,Deborah Curtis,IT,Masculino,34,2020-08-09,,Activo,0,3.5,No
+119,Randall Young,Finanzas,Masculino,47,2022-11-21,,Activo,10,3.0,Sí
+120,Linda Duke,IT,Femenino,27,2016-12-26,,Activo,0,1.6,No
+121,Kyle Joyce,Operaciones,Femenino,30,2018-08-10,,Activo,9,1.5,Sí
+122,Kenneth George,Finanzas,Femenino,58,2024-05-03,2025-05-27,Inactivo,11,4.4,Sí
+123,Erin Terry,Recursos Humanos,Femenino,37,2023-05-24,,Activo,8,2.4,No
+124,Cheryl Reilly,IT,Femenino,58,2023-02-04,2023-02-08,Inactivo,8,2.8,Sí
+125,Jessica Ward,Marketing,Femenino,52,2016-07-05,,Activo,8,1.7,No
+126,David Wood,Finanzas,Femenino,25,2018-09-12,,Activo,9,2.3,Sí
+127,Joshua Olson,Recursos Humanos,Femenino,32,2022-04-21,,Activo,13,3.2,Sí
+128,Jessica Daniel,Finanzas,Femenino,23,2019-05-29,,Activo,10,1.1,Sí
+129,Brandon Barry,IT,Masculino,34,2022-11-03,,Activo,6,3.4,No
+130,Kara Walker,Operaciones,Femenino,38,2023-04-12,,Activo,1,1.4,No
+131,Donna Cole,Recursos Humanos,Femenino,33,2019-06-29,,Activo,11,1.7,No
+132,Melissa Flores,Finanzas,Femenino,46,2018-01-09,,Activo,7,3.3,No
+133,Carlos Hardy,Recursos Humanos,Masculino,41,2019-05-27,,Activo,12,3.3,Sí
+134,Nicholas Miller,Recursos Humanos,Femenino,44,2019-04-11,,Activo,1,2.5,Sí
+135,Kaitlyn Collins,Marketing,Femenino,25,2019-03-31,,Activo,8,3.3,No
+136,Jordan Kim,Marketing,Masculino,52,2021-03-29,2023-11-14,Inactivo,15,4.9,Sí
+137,Jordan Carter,IT,Masculino,32,2019-05-12,,Activo,6,2.6,No
+138,Daniel Schmitt,Ventas,Femenino,42,2024-08-03,,Activo,11,4.2,No
+139,Jackson Moss,IT,Femenino,30,2020-04-05,2020-05-12,Inactivo,0,1.1,No
+140,Mr. Gregory Jones MD,Recursos Humanos,Femenino,39,2023-08-30,,Activo,10,2.7,Sí
+141,Tina Johnson,Operaciones,Femenino,31,2017-07-27,,Activo,0,1.7,Sí
+142,Linda Holden,Marketing,Femenino,59,2018-02-09,,Activo,8,1.5,No
+143,Michael Daugherty,Finanzas,Masculino,49,2015-07-07,,Activo,15,4.8,Sí
+144,Melissa Schultz,IT,Femenino,36,2017-11-16,,Activo,10,1.5,No
+145,Eddie Miller,Finanzas,Masculino,57,2021-09-25,,Activo,15,1.3,No
+146,William Carr,Operaciones,Femenino,46,2024-12-21,2025-01-29,Inactivo,14,1.9,No
+147,Michelle Gardner,Operaciones,Femenino,51,2023-03-19,,Activo,9,3.5,Sí
+148,Kevin Johnson,Operaciones,Femenino,60,2016-07-06,2021-05-13,Inactivo,10,2.7,Sí
+149,Carmen Strickland,Operaciones,Femenino,46,2022-01-18,,Activo,13,3.6,Sí
+150,Steven Gonzalez,Marketing,Femenino,29,2017-07-11,,Activo,2,2.0,No
+151,Steve Smith,Operaciones,Masculino,43,2016-11-27,,Activo,14,2.4,No
+152,Nancy Frazier,Recursos Humanos,Femenino,28,2023-12-14,2024-05-31,Inactivo,14,3.9,Sí
+153,Barbara Rose,Finanzas,Femenino,49,2024-06-30,,Activo,12,4.3,No
+154,Kayla Johnson,Recursos Humanos,Femenino,55,2017-10-09,,Activo,0,1.8,Sí
+155,Sean Johnson,Operaciones,Femenino,60,2016-07-15,,Activo,12,3.2,No
+156,Ryan Silva,IT,Femenino,49,2016-06-19,2019-02-23,Inactivo,11,3.1,No
+157,Jeremiah Soto,Recursos Humanos,Femenino,57,2015-05-28,,Activo,12,3.6,No
+158,Derek Fields,Recursos Humanos,Femenino,28,2024-10-25,,Activo,13,1.3,No
+159,John Williams,Operaciones,Masculino,56,2024-09-06,2025-01-06,Inactivo,7,1.1,Sí
+160,Jill Adams,Recursos Humanos,Femenino,42,2018-02-23,,Activo,14,4.1,No
+161,Chelsea Taylor,Finanzas,Femenino,28,2016-04-03,,Activo,15,2.6,No
+162,Erik Foster,Recursos Humanos,Femenino,27,2022-02-26,2023-04-05,Inactivo,4,2.5,Sí
+163,Jonathan Short,Ventas,Masculino,22,2020-06-27,,Activo,3,1.0,Sí
+164,Samuel Rodriguez,IT,Femenino,22,2015-11-04,,Activo,11,5.0,Sí
+165,Parker Martin,Recursos Humanos,Femenino,28,2022-05-15,,Activo,10,3.4,No
+166,Bryan Brown,Finanzas,Masculino,37,2016-01-12,,Activo,1,4.3,No
+167,William Summers,Marketing,Masculino,23,2016-12-24,,Activo,9,3.0,No
+168,Antonio Mitchell,Marketing,Femenino,30,2015-08-27,,Activo,7,2.4,Sí
+169,Lisa Larson,IT,Masculino,40,2024-05-12,,Activo,10,2.9,Sí
+170,Jonathan Smith,Operaciones,Masculino,31,2015-09-13,,Activo,5,4.6,Sí
+171,Peter Ali,Ventas,Masculino,47,2018-12-11,,Activo,8,2.9,Sí
+172,Jay Roach,Marketing,Femenino,51,2023-03-21,,Activo,7,4.2,Sí
+173,James Phillips,Recursos Humanos,Femenino,22,2022-06-06,,Activo,9,2.8,No
+174,Adam Powell,Marketing,Femenino,46,2019-08-09,,Activo,5,2.9,Sí
+175,Brent Bryant,Marketing,Masculino,51,2019-07-25,,Activo,7,1.5,No
+176,Jeffery Garcia,Recursos Humanos,Masculino,33,2020-03-05,,Activo,5,1.9,No
+177,Autumn Turner,Ventas,Masculino,23,2022-04-19,2025-03-08,Inactivo,13,3.4,Sí
+178,Jessica Benitez,IT,Masculino,48,2015-12-04,,Activo,4,4.6,Sí
+179,Jennifer Brady,Recursos Humanos,Masculino,46,2024-06-05,,Activo,0,4.8,Sí
+180,Tiffany Smith,Marketing,Masculino,28,2016-04-28,,Activo,1,1.2,No
+181,David Ingram,Finanzas,Masculino,32,2020-06-05,,Activo,9,1.6,Sí
+182,Victor Flores,IT,Masculino,33,2016-04-06,,Activo,0,3.0,Sí
+183,Bryan Myers,Ventas,Femenino,49,2016-11-30,,Activo,15,4.2,No
+184,Alexandra Wagner,Marketing,Masculino,36,2018-06-04,,Activo,9,3.7,No
+185,Kristen Ward,Finanzas,Femenino,27,2020-01-21,,Activo,8,4.3,Sí
+186,Mr. Gerald Freeman,Operaciones,Femenino,54,2022-01-03,2022-07-26,Inactivo,6,4.2,No
+187,Alyssa Olson,Recursos Humanos,Femenino,53,2020-02-05,2025-02-05,Inactivo,5,2.1,No
+188,Zachary Miller,Ventas,Masculino,38,2024-09-23,,Activo,12,3.3,No
+189,Christina Reilly,IT,Femenino,32,2016-07-25,,Activo,11,4.7,Sí
+190,Nathan Gonzales,Operaciones,Masculino,50,2022-08-28,,Activo,13,1.7,Sí
+191,Matthew Gates,Operaciones,Femenino,29,2021-06-24,,Activo,9,3.7,No
+192,Tyler Johnson,Marketing,Femenino,54,2018-02-14,,Activo,14,1.9,Sí
+193,Raymond Rocha,Operaciones,Femenino,32,2018-01-17,,Activo,6,3.8,Sí
+194,Robert Thompson,Recursos Humanos,Femenino,53,2023-04-01,2023-04-18,Inactivo,0,4.3,Sí
+195,Angela Armstrong,Finanzas,Femenino,52,2023-12-11,,Activo,2,2.0,Sí
+196,Joshua Russell,Recursos Humanos,Femenino,41,2019-11-18,,Activo,15,2.0,Sí
+197,Christian Davila,Recursos Humanos,Masculino,59,2018-12-27,,Activo,2,2.0,Sí
+198,Amber Martin,IT,Masculino,44,2015-06-29,2019-05-23,Inactivo,12,2.3,No
+199,Noah Ford,Recursos Humanos,Masculino,56,2018-10-14,,Activo,10,3.9,No
+200,Christian Brooks,IT,Femenino,29,2021-02-21,,Activo,14,3.1,Sí
